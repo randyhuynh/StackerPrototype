@@ -18,6 +18,12 @@
 		ACD35DD5165038FB009A0EC1 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACD35DD4165038FB009A0EC1 /* Default-568h@2x.png */; };
 		ACD35DD8165038FB009A0EC1 /* StackerPrototypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACD35DD7165038FB009A0EC1 /* StackerPrototypeViewController.m */; };
 		ACD35DDB165038FB009A0EC1 /* StackerPrototypeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACD35DD9165038FB009A0EC1 /* StackerPrototypeViewController.xib */; };
+		ACE0501B165319B700BF8C97 /* blank.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE0501A165319B700BF8C97 /* blank.png */; };
+		ACE050221653280A00BF8C97 /* 05.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE0501D1653280A00BF8C97 /* 05.png */; };
+		ACE050231653280A00BF8C97 /* 04.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE0501E1653280A00BF8C97 /* 04.png */; };
+		ACE050241653280A00BF8C97 /* 03.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE0501F1653280A00BF8C97 /* 03.png */; };
+		ACE050251653280A00BF8C97 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE050201653280A00BF8C97 /* 02.png */; };
+		ACE050261653280A00BF8C97 /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = ACE050211653280A00BF8C97 /* 01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +43,12 @@
 		ACD35DD6165038FB009A0EC1 /* StackerPrototypeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StackerPrototypeViewController.h; sourceTree = "<group>"; };
 		ACD35DD7165038FB009A0EC1 /* StackerPrototypeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StackerPrototypeViewController.m; sourceTree = "<group>"; };
 		ACD35DDA165038FB009A0EC1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/StackerPrototypeViewController.xib; sourceTree = "<group>"; };
+		ACE0501A165319B700BF8C97 /* blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blank.png; path = ../../blank.png; sourceTree = "<group>"; };
+		ACE0501D1653280A00BF8C97 /* 05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 05.png; path = ../../05.png; sourceTree = "<group>"; };
+		ACE0501E1653280A00BF8C97 /* 04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 04.png; path = ../../04.png; sourceTree = "<group>"; };
+		ACE0501F1653280A00BF8C97 /* 03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 03.png; path = ../../03.png; sourceTree = "<group>"; };
+		ACE050201653280A00BF8C97 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02.png; path = ../../02.png; sourceTree = "<group>"; };
+		ACE050211653280A00BF8C97 /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 01.png; path = ../../01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +108,12 @@
 		ACD35DC5165038FB009A0EC1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ACE0501D1653280A00BF8C97 /* 05.png */,
+				ACE0501E1653280A00BF8C97 /* 04.png */,
+				ACE0501F1653280A00BF8C97 /* 03.png */,
+				ACE050201653280A00BF8C97 /* 02.png */,
+				ACE050211653280A00BF8C97 /* 01.png */,
+				ACE0501A165319B700BF8C97 /* blank.png */,
 				ACD35DC6165038FB009A0EC1 /* StackerPrototype-Info.plist */,
 				ACD35DC7165038FB009A0EC1 /* InfoPlist.strings */,
 				ACD35DCA165038FB009A0EC1 /* main.m */,
@@ -164,6 +182,12 @@
 				ACD35DD3165038FB009A0EC1 /* Default@2x.png in Resources */,
 				ACD35DD5165038FB009A0EC1 /* Default-568h@2x.png in Resources */,
 				ACD35DDB165038FB009A0EC1 /* StackerPrototypeViewController.xib in Resources */,
+				ACE0501B165319B700BF8C97 /* blank.png in Resources */,
+				ACE050221653280A00BF8C97 /* 05.png in Resources */,
+				ACE050231653280A00BF8C97 /* 04.png in Resources */,
+				ACE050241653280A00BF8C97 /* 03.png in Resources */,
+				ACE050251653280A00BF8C97 /* 02.png in Resources */,
+				ACE050261653280A00BF8C97 /* 01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +317,7 @@
 				ACD35DE0165038FB009A0EC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
